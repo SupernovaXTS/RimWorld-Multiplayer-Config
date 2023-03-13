@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.4.3613 rev642</version>
+  <version>1.4.3641 rev649</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -11,6 +11,7 @@
     <li>rwmt.multiplayercompatibility</li>
     <li>ccl.patchoperation.highlander</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>erdelf.humanoidalienraces</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>syrchalis.processor.framework</li>
     <li>dhultgren.keepbedownership</li>
@@ -228,6 +229,16 @@
     <li>telefonmast.graphicssettings</li>
     <li>void.charactereditor</li>
     <li>notfood.glue</li>
+    <li>rupal.rimpymodmanagerdatabase</li>
+    <li>fluffy.modmanager</li>
+    <li>killathon.androidtiersreforged</li>
+    <li>killathon.androidtiersneuralmanipulation</li>
+    <li>arektpp.chappie</li>
+    <li>malistaticy.androidresurrection</li>
+    <li>masterofgrey.extraframesatr</li>
+    <li>infodeprived.androidmechinatorpatch</li>
+    <li>explodoboy.snsambitioncosmic</li>
+    <li>explodoboy.snsambitioncosmic.gen4addon</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld</li>
