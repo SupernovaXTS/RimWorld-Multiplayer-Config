@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Rimefeller.Settings">
 		<GenerateFloors>False</GenerateFloors>
-		<RegenRate>1</RegenRate>
+		<RegenRate>4</RegenRate>
 		<PipeVisibility>1</PipeVisibility>
 		<OilPumpCapacity>4</OilPumpCapacity>
 		<OilGridCapacity>3</OilGridCapacity>

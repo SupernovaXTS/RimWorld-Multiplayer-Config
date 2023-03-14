@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProgressRenderer.PRModSettings">
+		<enabled>False</enabled>
+		<renderFeedback>Message</renderFeedback>
+		<createSubdirs>True</createSubdirs>
+		<migratedOutputImageSettings>True</migratedOutputImageSettings>
+		<migratedInterval>True</migratedInterval>
+	</ModSettings>
+</SettingsBlock>

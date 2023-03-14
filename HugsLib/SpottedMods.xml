@@ -9,6 +9,7 @@
   <mod packageId="rwmt.MultiplayerCompatibility" />
   <mod packageId="ccl.patchoperation.highlander" />
   <mod packageId="UnlimitedHugs.HugsLib" />
+  <mod packageId="erdelf.HumanoidAlienRaces" />
   <mod packageId="OskarPotocki.VanillaFactionsExpanded.Core" />
   <mod packageId="syrchalis.processor.framework" />
   <mod packageId="dhultgren.keepbedownership" />
@@ -226,7 +227,6 @@
   <mod packageId="Telefonmast.GraphicsSettings" />
   <mod packageId="void.charactereditor" />
   <mod packageId="notfood.Glue" />
-  <mod packageId="erdelf.HumanoidAlienRaces" />
   <mod packageId="rupal.rimpymodmanagerdatabase" />
   <mod packageId="Fluffy.ModManager" />
   <mod packageId="Killathon.AndroidTiersReforged" />
@@ -237,4 +237,12 @@
   <mod packageId="InfoDeprived.AndroidMechinatorPatch" />
   <mod packageId="explodoboy.SNSAmbitionCosmic" />
   <mod packageId="explodoboy.SNSAmbitionCosmic.Gen4Addon" />
+  <mod packageId="UnlimitedHugs.AllowTool" />
+  <mod packageId="brrainz.achtung" />
+  <mod packageId="Fluffy.Blueprints" />
+  <mod packageId="Merthsoft.DesignatorShapes" />
+  <mod packageId="Scherub.PlanningExtended" />
+  <mod packageId="hatti.qualitybuilder" />
+  <mod packageId="Fluffy.CommandPalette" />
+  <mod packageId="Fluffy.WorkTab" />
 </Mods>

@@ -33,8 +33,6 @@
 				<b>75</b>
 			</li>
 		</playerColors>
-		<serverSettings>
-			<autosaveInterval>1</autosaveInterval>
-		</serverSettings>
+		<serverSettings />
 	</ModSettings>
 </SettingsBlock>

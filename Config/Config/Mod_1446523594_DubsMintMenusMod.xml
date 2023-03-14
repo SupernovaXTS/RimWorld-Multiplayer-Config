@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<OrderBillsAz>True</OrderBillsAz>
+		<HideFinished>True</HideFinished>
+		<LastSavedBuild>746</LastSavedBuild>
+		<BoxSizeX>90</BoxSizeX>
+		<BoxSizeY>75</BoxSizeY>
+		<infocardW>350</infocardW>
+		<MaxHeight>650</MaxHeight>
+		<InfoWidth>358</InfoWidth>
+		<billTabH>333</billTabH>
+		<bBoxSizeY>62</bBoxSizeY>
+		<listWidth>404</listWidth>
+		<ResearchListWidth>350</ResearchListWidth>
+		<WheelOnRightClick>True</WheelOnRightClick>
+		<pinnedArchitectTabs IsNull="True" />
+		<ResourceReadout>
+			<li>MealSimple</li>
+			<li>Kibble</li>
+		</ResourceReadout>
+		<WheelDefs>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+			<li>RimWorld.Designator_Haul</li>
+			<li>RimWorld.Designator_Claim</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>MoreHarvestDesignators.Designator_PlantsHarvest_Mature</li>
+			<li>RimWorld.Designator_Mine</li>
+			<li>RimWorld.Designator_Unforbid</li>
+		</WheelDefs>
+		<FBenchTemplates />
+	</ModSettings>
+</SettingsBlock>

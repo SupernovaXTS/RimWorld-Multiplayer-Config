@@ -2863,6 +2863,33 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
+    <DefName>SNS_UnobtainiumTile</DefName>
+    <Color>
+      <r>0.929411769</r>
+      <g>0.8862745</g>
+      <b>0.6901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SNS_CosmicMatterTile</DefName>
+    <Color>
+      <r>0.945098042</r>
+      <g>0.933333337</g>
+      <b>0.572549045</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SNS_EterniumTile</DefName>
+    <Color>
+      <r>0.8117647</r>
+      <g>0.9254902</g>
+      <b>0.8784314</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
     <DefName>StuffedFineTiles</DefName>
     <Color>
       <r>0.8235294</r>
@@ -3196,7 +3223,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetPurple410</DefName>
+    <DefName>CarpetPurple579</DefName>
     <Color>
       <r>0.124127828</r>
       <g>0.031662032</g>
@@ -3205,7 +3232,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFinePurple910</DefName>
+    <DefName>CarpetFinePurple101</DefName>
     <Color>
       <r>0.14245145</r>
       <g>0.03633595</g>
@@ -3376,7 +3403,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetIndigo848</DefName>
+    <DefName>CarpetIndigo13</DefName>
     <Color>
       <r>0.1978877</r>
       <g>0.06749079</g>
@@ -3457,7 +3484,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineBlue141</DefName>
+    <DefName>CarpetFineBlue352</DefName>
     <Color>
       <r>0.008371803</r>
       <g>0.06140776</g>
@@ -3781,7 +3808,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineGreen83</DefName>
+    <DefName>CarpetFineGreen919</DefName>
     <Color>
       <r>0.115126833</r>
       <g>0.160241529</g>
@@ -4528,7 +4555,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetOrange958</DefName>
+    <DefName>CarpetOrange92</DefName>
     <Color>
       <r>0.353209</r>
       <g>0.116718911</g>
@@ -4537,7 +4564,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineOrange252</DefName>
+    <DefName>CarpetFineOrange930</DefName>
     <Color>
       <r>0.4053493</r>
       <g>0.133948848</g>
@@ -4780,7 +4807,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetWhite616</DefName>
+    <DefName>CarpetWhite790</DefName>
     <Color>
       <r>0.42877993</r>
       <g>0.42877993</g>
@@ -4825,7 +4852,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineCream750</DefName>
+    <DefName>CarpetFineCream396</DefName>
     <Color>
       <r>0.5526698</r>
       <g>0.5357954</g>
@@ -5104,7 +5131,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetBlack982</DefName>
+    <DefName>CarpetBlack610</DefName>
     <Color>
       <r>0.045593325</r>
       <g>0.045593325</g>
@@ -5113,7 +5140,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineBlack855</DefName>
+    <DefName>CarpetFineBlack761</DefName>
     <Color>
       <r>0.0523237661</r>
       <g>0.0523237661</g>
@@ -5275,34 +5302,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>SNS_UnobtainiumTile</DefName>
-    <Color>
-      <r>0.929411769</r>
-      <g>0.8862745</g>
-      <b>0.6901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SNS_CosmicMatterTile</DefName>
-    <Color>
-      <r>0.945098042</r>
-      <g>0.933333337</g>
-      <b>0.572549045</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SNS_EterniumTile</DefName>
-    <Color>
-      <r>0.8117647</r>
-      <g>0.9254902</g>
-      <b>0.8784314</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>CarpetPurple672</DefName>
+    <DefName>CarpetPurple867</DefName>
     <Color>
       <r>0.124127828</r>
       <g>0.031662032</g>
@@ -5311,7 +5311,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFinePurple214</DefName>
+    <DefName>CarpetFinePurple6</DefName>
     <Color>
       <r>0.14245145</r>
       <g>0.03633595</g>
@@ -5320,7 +5320,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetIndigo825</DefName>
+    <DefName>CarpetIndigo814</DefName>
     <Color>
       <r>0.1978877</r>
       <g>0.06749079</g>
@@ -5329,7 +5329,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineBlue421</DefName>
+    <DefName>CarpetFineBlue307</DefName>
     <Color>
       <r>0.008371803</r>
       <g>0.06140776</g>
@@ -5338,7 +5338,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineGreen746</DefName>
+    <DefName>CarpetFineGreen816</DefName>
     <Color>
       <r>0.115126833</r>
       <g>0.160241529</g>
@@ -5347,7 +5347,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetOrange782</DefName>
+    <DefName>CarpetOrange56</DefName>
     <Color>
       <r>0.353209</r>
       <g>0.116718911</g>
@@ -5356,7 +5356,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineOrange966</DefName>
+    <DefName>CarpetFineOrange143</DefName>
     <Color>
       <r>0.4053493</r>
       <g>0.133948848</g>
@@ -5365,7 +5365,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetWhite760</DefName>
+    <DefName>CarpetWhite179</DefName>
     <Color>
       <r>0.42877993</r>
       <g>0.42877993</g>
@@ -5374,7 +5374,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineCream148</DefName>
+    <DefName>CarpetFineCream295</DefName>
     <Color>
       <r>0.5526698</r>
       <g>0.5357954</g>
@@ -5383,7 +5383,7 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetBlack509</DefName>
+    <DefName>CarpetBlack241</DefName>
     <Color>
       <r>0.045593325</r>
       <g>0.045593325</g>
@@ -5392,7 +5392,106 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>CarpetFineBlack866</DefName>
+    <DefName>CarpetFineBlack401</DefName>
+    <Color>
+      <r>0.0523237661</r>
+      <g>0.0523237661</g>
+      <b>0.0523237661</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetPurple769</DefName>
+    <Color>
+      <r>0.124127828</r>
+      <g>0.031662032</g>
+      <b>0.179346412</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFinePurple97</DefName>
+    <Color>
+      <r>0.14245145</r>
+      <g>0.03633595</g>
+      <b>0.20582135</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetIndigo852</DefName>
+    <Color>
+      <r>0.1978877</r>
+      <g>0.06749079</g>
+      <b>0.1978877</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFineBlue10</DefName>
+    <Color>
+      <r>0.008371803</r>
+      <g>0.06140776</g>
+      <b>0.21279785</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFineGreen190</DefName>
+    <Color>
+      <r>0.115126833</r>
+      <g>0.160241529</g>
+      <b>0.0558701567</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetOrange778</DefName>
+    <Color>
+      <r>0.353209</r>
+      <g>0.116718911</g>
+      <b>0.01926318</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFineOrange134</DefName>
+    <Color>
+      <r>0.4053493</r>
+      <g>0.133948848</g>
+      <b>0.0221067928</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetWhite959</DefName>
+    <Color>
+      <r>0.42877993</r>
+      <g>0.42877993</g>
+      <b>0.42877993</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFineCream77</DefName>
+    <Color>
+      <r>0.5526698</r>
+      <g>0.5357954</g>
+      <b>0.450216979</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetBlack904</DefName>
+    <Color>
+      <r>0.045593325</r>
+      <g>0.045593325</g>
+      <b>0.045593325</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CarpetFineBlack429</DefName>
     <Color>
       <r>0.0523237661</r>
       <g>0.0523237661</g>
